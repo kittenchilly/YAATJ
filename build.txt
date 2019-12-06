@@ -1,0 +1,3 @@
+displayName = Yet Another Automatic Team Joiner
+author = kittenchilly
+version = 0.1
