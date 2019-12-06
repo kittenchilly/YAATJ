@@ -1,4 +1,4 @@
-Yet Another Automatic Team Joiner is right what is says on the tin.
+Yet Another Automatic Team Joiner is right what it says on the tin.
 The team that gets joined is fully configurable and easy to set.
 This team joiner only automatically joins teams when a player enters a world, meaning you can still change teams after joining if you want to PvP or something else.
 Obviously only works in multiplayer.
